@@ -1,0 +1,1 @@
+- SEMPRE use TODAS as regras que estão em @.cursor/rules - as regras são todos os arquivos .mdc
